@@ -192,6 +192,7 @@ aumento da confiança de clientes e parceiros;
 redução de riscos e incidentes de segurança;
 melhoria na organização de processos internos.
 
+
 2. Glossário de Conceitos
 
 SGSI (Sistema de Gestão de Segurança da Informação):
@@ -224,6 +225,7 @@ Medida adotada para reduzir riscos (ex: autenticação, criptografia, backup).
 
 Auditoria:
 Processo de verificação para avaliar se o SGSI está em conformidade com a norma.
+
 
 3. Checklist Prático de Implementação
 
@@ -267,12 +269,14 @@ Atualizar políticas e processos
 
 Revisar análise de riscos periodicamente
 
+
 4. Prompts Reutilizáveis para Estudos Futuros
 "Explique [conceito] da ISO/IEC 27001 com exemplos práticos"
 "Como aplicar [controle de segurança] em uma empresa de médio porte?"
 "Quais são os erros comuns ao implementar [processo]?"
 "Crie um checklist para implementar [tema específico]"
 "Compare ISO/IEC 27001 com [outro framework] destacando diferenças práticas"
+
 
 Conclusão do Miniguia
 
