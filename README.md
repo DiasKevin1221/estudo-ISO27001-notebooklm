@@ -1,4 +1,4 @@
-# 📘 Caderno Temático: ISO/IEC 27001 na Segurança da Informação
+# ISO/IEC 27001 na Segurança da Informação
 
 ## Objetivo e Contexto
 
